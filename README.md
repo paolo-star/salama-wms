@@ -4,6 +4,8 @@ Système de gestion d’entrepôt (WMS) pour SALAMA, Madagascar : trois entrepô
 
 **Accès au démonstrateur :** https://paolo-star.github.io/salama-wms/
 
+**Manuel d’utilisation (PDF) :** [manuel/SALAMA_WMS_Manuel_utilisation_v1.0.pdf](manuel/SALAMA_WMS_Manuel_utilisation_v1.0.pdf)
+
 ## Périmètre fonctionnel
 - Réception par scan GS1, quarantaine et libération pharmaceutique
 - Emplacements adressés jusqu’à la case (QR, GLN), rangement guidé, transferts, inventaires
