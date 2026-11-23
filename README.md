@@ -17,6 +17,13 @@ Système de gestion d’entrepôt (WMS) pour SALAMA, Madagascar : trois entrepô
 - Ressources humaines de l’entrepôt, douchettes, interface Sage X3 (simulée)
 - Authentification, contrôle des doublons, activation des comptes par un administrateur ; interface FR / EN
 
+## Structure du dépôt
+- `index.html` : application assemblée, servie par GitHub Pages
+- `src/` : code source par module ; `tools/build.py` : assemblage
+- `vendor/` : bibliothèques tierces et leurs licences (voir `THIRD_PARTY_NOTICES.md`)
+- `docs/ARCHITECTURE.md` : architecture et règles métier ; `CHANGELOG.md` : historique des versions
+- `manuel/` : manuel d'utilisation (PDF)
+
 ## Statut
 Démonstrateur fonctionnel destiné à la revue et à la validation des processus. Les données sont fictives et restent dans le navigateur de chaque utilisateur (aucun serveur). L’interface Sage X3 et l’envoi des courriels sont simulés.
 
